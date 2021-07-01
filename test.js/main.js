@@ -1,2 +1,2 @@
 console.log('Hello World !');
-console.log('Hi');
+console.log("JavaScript is awesome!");
